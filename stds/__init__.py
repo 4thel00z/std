@@ -1,4 +1,4 @@
-__version__ = "0.1.0"
+__version__ = "0.1.3"
 __doc__ = """
 This is a small package that provides 3 high-level APIs to interact elegantly with stdin, stdout and stderr:
 
