@@ -17,5 +17,4 @@ if __name__ == "__main__":
     stdin | print
     "This prints out stuff on stdout" | stdout
     "This prints out stuff on stderr" | stderr
-
 ```
