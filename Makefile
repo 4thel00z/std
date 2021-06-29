@@ -3,4 +3,4 @@ shell:
 publish:
 	poetry publish --build
 pypi:
-	xdg-open https://pypi.org/project/std/
+	xdg-open https://pypi.org/project/stds/
