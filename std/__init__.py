@@ -10,7 +10,8 @@ You can use it as such:
 
 if __name__ == "__main__":
     stdin | print
-    "asdasdas" | stderr
+    "This prints out stuff on stdout" | stdout
+    "This prints out stuff on stderr" | stderr
 """
 
 import io
